@@ -34,7 +34,7 @@ const App = () => {
     }
 
     const onCheckout = () => {
-        telegram.MainButton.text= "sotib oling";
+        telegram.MainButton.title= "sotib oling";
         telegram.MainButton.show();
     }
 
